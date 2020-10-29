@@ -4,10 +4,11 @@
 ** File description:
 ** task04 Day03
 */
-int my_isneg(int n){
-    if(n < 0){
+
+int my_isneg(int n) {
+    if (n < 0){
         my_putchar('N');
-    }else {
+    } else {
         my_putchar('P');
     }
 }

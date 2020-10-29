@@ -1,10 +1,10 @@
 /*
 ** EPITECH PROJECT, 2020
-** my_getnbr
+** my compute power rec
 ** File description:
 ** task01 Day07
 */
 
-int my_getnbr(char const *str) {
+int my_compute_power_rec(int nb, int power) {
     return (0);
 }

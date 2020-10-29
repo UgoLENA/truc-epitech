@@ -1,10 +1,10 @@
 /*
 ** EPITECH PROJECT, 2020
-** my_getnbr
+**  my strcmp
 ** File description:
 ** task01 Day07
 */
 
-int my_getnbr(char const *str) {
+int my_strcmp(char const *s1, char const *s2) {
     return (0);
 }

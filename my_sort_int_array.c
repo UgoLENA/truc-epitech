@@ -1,10 +1,10 @@
 /*
 ** EPITECH PROJECT, 2020
-** my_getnbr
+** my sort int array
 ** File description:
 ** task01 Day07
 */
 
-int my_getnbr(char const *str) {
-    return (0);
+void my_sort_int_array(int *tab, int size)
+{
 }

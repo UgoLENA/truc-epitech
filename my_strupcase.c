@@ -1,10 +1,10 @@
 /*
 ** EPITECH PROJECT, 2020
-** my_getnbr
+** my strupcase
 ** File description:
 ** task01 Day07
 */
 
-int my_getnbr(char const *str) {
+char *my_strupcase(char *str) {
     return (0);
 }

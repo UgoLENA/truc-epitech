@@ -1,10 +1,11 @@
 /*
 ** EPITECH PROJECT, 2020
-** my_getnbr
+** my strcapitalize
 ** File description:
 ** task01 Day07
 */
 
-int my_getnbr(char const *str) {
+char *my_strcapitalize(char *str)
+{
     return (0);
 }

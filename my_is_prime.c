@@ -1,10 +1,10 @@
 /*
 ** EPITECH PROJECT, 2020
-** my_getnbr
+** my is prime
 ** File description:
 ** task01 Day07
 */
 
-int my_getnbr(char const *str) {
+int my_is_prime(int nb) {
     return (0);
 }
